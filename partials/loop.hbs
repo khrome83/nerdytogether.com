@@ -1,0 +1,21 @@
+
+{{#foreach posts}}
+
+<div class="posts">
+    <h2 class="list-headline">
+        <a href="{{url}}">{{{title}}}</a>
+    </h2>
+    {{#if image}}
+        <div class="entry-media">
+            <img src="{{image}}">
+        </div>
+    {{else}}
+    {{/if}}
+    <p>{{excerpt words="106"}}... 
+    <a class="read-more" href="{{url}}">read more &raquo;</a>
+</div>
+
+{{/foreach}}
+
+
+{{pagination}}

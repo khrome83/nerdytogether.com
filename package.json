@@ -1,0 +1,25 @@
+{
+  "name": "nerdytogether-theme",
+  "version": "0.1.0",
+  "description": "NerdyTogether.com Ghost Theme",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/khrome83/nerdytogether.com.git"
+  },
+  "keywords": [
+    "ghost",
+    "theme",
+    "responsive",
+    "blog",
+    "blogging"
+  ],
+  "author": "Zane C. Milakovic <zane.milakovic@icloud.com> (http://www.zanemilakovic.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/khrome83/nerdytogether.com/issues"
+  },
+  "homepage": "https://github.com/khrome83/nerdytogether.com#readme"
+}
